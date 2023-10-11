@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 681f4eff80c59af44bc80677d0ec2495, type: 3}
+  m_Name: Mob04_05
+  m_EditorClassIdentifier: 
+  m_Animator: {fileID: 9100000, guid: 48da8f70468fdf441b446a4a3e5c818d, type: 2}
+  m_EnemyName: Mob04_05
+  m_Hp: 80
+  m_Exp: 1
+  m_BaseSpeed: 0
+  m_MaxSpeed: 3.5
+  m_Acceleration: 3.5
